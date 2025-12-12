@@ -20,7 +20,7 @@ cargo --version
 ### 2. Clone this repository
 
 ```bash
-git clone https://github.com/santimartinezzgb/curso-c-principiantes.git
+git clone https://github.com/santimartinezzgb/rust-learning.git
 cd rust-learning
 ```
 
