@@ -1,4 +1,4 @@
 # Rust Learning
 
-This practice was did follow this book: "The Rust Programming Language"
+This practice is doing follow this book: "The Rust Programming Language"
 https://doc.rust-lang.org/book
